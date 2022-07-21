@@ -1,0 +1,75 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+
+.row {
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+    width: 380px;
+    height: 420px;
+    text-align: left;
+    margin-bottom: 32px;
+}
+.card  h2{
+    font-size: 14px;
+     color: #990000;
+
+}
+.card p{
+    color: #330000;
+}
+
+.aboutSection .title h1 {
+    font-size: 32px;
+    font-weight: 700;
+    color: red;
+}
+
+.aboutSection .card img {
+    width: 360px;
+}
+
+.card a {
+    color: #0835A7;
+    background-color: #DADADA;
+    font-size: 14px;
+    font-weight: 400;
+    text-decoration: none;
+    border-radius: 14px;
+    padding: 10px 24px;
+    margin-top: 34px;
+    display: inline-block;
+}
+
+.gallerySection .row2{
+    text-align: center;
+}
+
+.card2{
+    display: inline-block;
+    width: 380px;
+    height: 420px;
+    text-align: left;
+    margin-bottom: 32px;
+}
+
+.gallerySection .title h1 {
+    font-size: 32px;
+    color: red;
+}
+.gallerySection .title h2{
+    font-size: 14px;
+    color: #4d0000;
+}
+
+.card2 h3{
+     font-size: 14px;
+     color: #990000;
+}
+.card2 p{
+    color: #330000;
+}
